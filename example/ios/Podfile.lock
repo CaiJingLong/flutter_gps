@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - gps (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - gps (from `/private/tmp/gps/ios/gps.podspec`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  gps:
+    :path: "/private/tmp/gps/ios/gps.podspec"
+
+SPEC CHECKSUMS:
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  gps: b9dd5f2faf776a4ef3df65166a6702dd1cd21ff2
+
+PODFILE CHECKSUM: be1e1d6ec1322bcd0ec530a10a920c588aa7b501
+
+COCOAPODS: 1.7.1
