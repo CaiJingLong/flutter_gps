@@ -2,11 +2,14 @@
 
 Getting location data by gps, Support android and iOS.
 
+[![0.1.1](https://img.shields.io/pub/v/gps.svg)](https://pub.dev/packages/gps)
+[![GitHub](https://img.shields.io/github/license/caijinglong/flutter_gps.svg)](https://github.com/caijinglong/flutter_gps)
+
 ## Install
 
 ```yaml
 dependencies:
-  gps: ^0.1.0 # (latest version)
+  gps: ^0.1.1 # (latest version)
 ```
 
 ## Usage

@@ -1,6 +1,6 @@
 name: gps
 description: Getting location data in the simplest way, and just getting it. Google service is not used in Android.
-version: 0.1.0
+version: 0.1.1
 author: caijinglong<cjl_spy@163.com>
 homepage: https://github.com/caijinglong/flutter_gps
 
