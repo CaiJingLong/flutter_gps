@@ -20,3 +20,9 @@ void main() async{
   print(latlng.lng);
 }
 ```
+
+Get GPS information only once.
+
+## LICENSE
+
+MIT
