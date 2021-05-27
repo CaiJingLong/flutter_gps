@@ -5,7 +5,7 @@ import 'package:flutter/services.dart';
 class Gps {
   static const MethodChannel _channel = const MethodChannel('top.kikt/gps');
 
-  static Future<GpsLatlng> currentGps() async {
+  static Future<GpsLatlng?> currentGps() async {
     try {
       var map = await _channel.invokeMethod("gps");
       if (map == null) {
@@ -19,8 +19,8 @@ class Gps {
 }
 
 class GpsLatlng {
-  String lat;
-  String lng;
+  String? lat;
+  String? lng;
 
   GpsLatlng._();
 
